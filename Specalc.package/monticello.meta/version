@@ -1,1 +1,2 @@
-(name 'Specalc-rohitsharma.1' message 'This is calculator using spec.' id '7ab7eeb6-6a89-4755-9b0d-76a7c90b99ac' date '6 March 2015' time '7:28:17.22066 am' author 'rohitsharma' ancestors () stepChildren ())
+(name 'Specalc-SeanDeNigris.2' message 'Brief Code Review- Moving code into the right object can often avoid duplication- Switch statements are a sign that a design has been missed- Prefer real objects to string interpretation' id '4446cfb1-c17a-44e1-b213-f7faff70ed81' date '8 March 2015' time '10:38:14.912682 pm' author 'SeanDeNigris' ancestors ((name 'Specalc-rohitsukhwal.1' message 'First Calculator Code
+' id '21a00d7b-f42c-5323-86a4-0fd853c84172' date '6 March 2015' time '7:29:52 am' author 'rohitsukhwal' ancestors () stepChildren ())) stepChildren ())

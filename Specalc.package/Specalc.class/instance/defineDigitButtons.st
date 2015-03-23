@@ -1,14 +1,7 @@
 button-defintion
 defineDigitButtons
-	button0
-		label: '0';
-		action: [ display label: ((display label,'0') asNumber) asString];
-		state: true.
-		
-	button1
-		label: '1';
-		action:  [ display label: ((display label,'1') asNumber) asString ];
-		state: true.
+	button0 beButton: 0 for: self.	
+	button1 beButton: 1 for: self.
 		
 	button2
 		label: '2';
